@@ -1,8 +1,3 @@
-Sure! Here's your entire project documentation rewritten in **inline Markdown format**, suitable for pasting directly into a Kaggle notebook **description cell**, `README.md`, or the top cell of your Jupyter notebook:
-
----
-
-````md
 # 🧠 Question Answering with Transformers and SQuAD
 
 ## 📌 Overview  
